@@ -1,4 +1,4 @@
-<h1 align= "center" color = "#241462"><b>Hi there, i'm Abdulrahman!</b></h1>
+<h1 align= "center"><b>Hi there, i'm Abdulrahman!</b></h1>
 
 
 

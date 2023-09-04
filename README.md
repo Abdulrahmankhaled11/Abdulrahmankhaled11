@@ -12,4 +12,4 @@
         <img src="https://img.shields.io/badge/-Instagram-9C1150?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h1 align= "center"><b>I'm a Data Scientist & Data Analyst </b></h1>
+<h2><b>I'm a Data Scientist & Data Analyst </b></h2>

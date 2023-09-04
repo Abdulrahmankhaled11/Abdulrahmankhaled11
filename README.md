@@ -7,7 +7,7 @@
     <a href="https://www.kaggle.com/abdulrahmankhaled1" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-3a424f?style=flat-square&logo=Kaggle" /></a>
     <a href="https://github.com/Abdulrahmankhaled11" alt="GitHub">
-        <img src="https://img.shields.io/badge/-GitHub-FE7A16?style=flat-square&logo=GitHub&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/-GitHub-Green?style=flat-square&logo=GitHub&logoColor=white" /></a>
     <a href="https://instagram.com/ahsankhan26" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://ahsankhan.me" alt="website">

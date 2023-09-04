@@ -1,18 +1,7 @@
-<div style="color:white;
-           display:fill;
-           border-radius:5px;
-           background-color:#F7C7D7;
+<h1 align= "center" style="color:white;
            font-size:200%;
-           font-family:Serif;
-           letter-spacing:0.5px">
+           font-family:Serif;"><b>Hi there, i'm Abdulrahman!</b></h1>
 
-<p style="padding: 10px;
-          color:#23494F;
-          font-size:120%;
-          text-align:center;">
-Hi there, i'm Abdulrahman!
-</p>
-</div>
 
 
 <p align="center">

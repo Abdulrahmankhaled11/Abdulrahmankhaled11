@@ -1,4 +1,4 @@
-<h1 align= "center" style="color:white;
+<h1 align= "center" style="color:#241462;
            font-size:200%;
            font-family:Serif;"><b>Hi there, i'm Abdulrahman!</b></h1>
 

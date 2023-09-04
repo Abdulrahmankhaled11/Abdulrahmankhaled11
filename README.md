@@ -1,7 +1,7 @@
 <h1 align= "center"><b>Hi there, i'm Abdulrahman!</b></h1>
 
 
-<p  style="border-radius:10px;
+<p  style="border-radius:20px;
           font-size:120%;"
           align = "center">
     <a href="https://www.linkedin.com/in/abdulrahman-khaled-1a0595241/" alt="LinkedIn">

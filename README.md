@@ -8,8 +8,8 @@
         <img src="https://img.shields.io/badge/-Kaggle-3a424f?style=flat-square&logo=Kaggle" /></a>
     <a href="https://github.com/Abdulrahmankhaled11" alt="GitHub">
         <img src="https://img.shields.io/badge/-GitHub-38365A?style=flat-square&logo=GitHub&logoColor=white" /></a>
-    <a href="https://instagram.com/ahsankhan26" alt="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://instagram.com/abdulrahmankhaledd_?igshid=MzMyNGUyNmU2YQ==" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-9C1150?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://ahsankhan.me" alt="website">
         <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=White" /></a>
 </p>

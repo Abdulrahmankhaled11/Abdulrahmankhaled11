@@ -11,5 +11,5 @@
     <a href="https://instagram.com/abdulrahmankhaledd_?igshid=MzMyNGUyNmU2YQ==" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-9C1150?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
-
-<h2><b>I'm a Data Scientist & Data Analyst </b></h2>
+------------------------------------------
+## I'm a Data Scientist & Data Analyst 

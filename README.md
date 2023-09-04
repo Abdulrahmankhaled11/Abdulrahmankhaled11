@@ -2,8 +2,8 @@
 
 
 <p  style="padding: 10px;
-          font-size:120%;
-          text-align:center;">
+          font-size:120%;"
+          align = "center">
     <a href="https://www.linkedin.com/in/abdulrahman-khaled-1a0595241/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
     <a href="https://www.kaggle.com/abdulrahmankhaled1" alt="Kaggle">

@@ -10,4 +10,6 @@
         <img src="https://img.shields.io/badge/-GitHub-38365A?style=flat-square&logo=GitHub&logoColor=white" /></a>
     <a href="https://instagram.com/abdulrahmankhaledd_?igshid=MzMyNGUyNmU2YQ==" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-9C1150?style=flat-square&logo=instagram&logoColor=white" /></a>
+   <a href="bodyelazar22@gmail.com?igshid=MzMyNGUyNmU2YQ==" alt="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-D33E3E?style=flat-square&logo=Gmail&logoColor=white" /></a> 
 </p>

@@ -1,9 +1,7 @@
 <h1 align= "center"><b>Hi there, i'm Abdulrahman!</b></h1>
 
 
-<p  style="border-radius:20px;
-          font-size:120%;"
-          align = "center">
+<p  align = "center">
     <a href="https://www.linkedin.com/in/abdulrahman-khaled-1a0595241/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
     <a href="https://www.kaggle.com/abdulrahmankhaled1" alt="Kaggle">

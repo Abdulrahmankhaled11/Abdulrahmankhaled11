@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <a href="https://linkedin.com/in/ahsankhan26" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/abdulrahman-khaled-1a0595241/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://hackerrank.com/ahsankhan26" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>

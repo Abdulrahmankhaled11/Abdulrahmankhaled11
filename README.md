@@ -1,4 +1,18 @@
+<div style="color:white;
+           display:fill;
+           border-radius:5px;
+           background-color:#F7C7D7;
+           font-size:200%;
+           font-family:Serif;
+           letter-spacing:0.5px">
 
+<p style="padding: 10px;
+          color:#23494F;
+          font-size:120%;
+          text-align:center;">
+Hi there, i'm Abdulrahman!
+</p>
+</div>
 
 
 <p align="center">

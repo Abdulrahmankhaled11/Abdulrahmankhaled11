@@ -27,6 +27,8 @@
 
 - 😎 [My Certificates](https://github.com/Abdulrahmankhaled11/My-Certificates)
 
+- 📋 [My Resume](https://github.com/Abdulrahmankhaled11/Abdulrahman-Khaled-CV/blob/main/Abdulrahman%20Khaled%20CV%20.pdf) 
+
 ---------
 
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/abdulrahman-khaled-1a0595241/)

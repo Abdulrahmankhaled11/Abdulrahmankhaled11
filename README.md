@@ -21,7 +21,7 @@
 
 - 🤖 [Kaggle Master](https://www.kaggle.com/abdulrahmankhaled1)
 
-- ⚡  Developing Skills more and more in  : `Deep Learning`  , `Artifical Intelligence`
+- ⚡  Developing Skills more and more in  : `Computer Vision`  , `Artifical Intelligence`
 
 - 👯 I’m looking to collaborate with other content creators
 
